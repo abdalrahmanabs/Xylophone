@@ -1,16 +1,17 @@
-# xylophone
 
-A new Flutter project.
+# Xylophone App
 
-## Getting Started
+The Xylophone app is a simple Flutter app that lets you play different sounds by tapping on colored buttons. Each button corresponds to a different note, and the app plays a sound when the button is tapped. The app is designed to simulate a xylophone, a percussion instrument that produces musical tones by striking wooden bars with mallets.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Seven colored buttons that correspond to different notes
+- Each button plays a different sound when tapped
+- The app has a dark background to create a contrast with the colored buttons
+- The app uses the `audioplayers` package to play the sounds
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Usage
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To play a sound, simply tap on one of the colored buttons on the screen. Each button corresponds to a different note, and the app plays a sound when the button is tapped. You can tap on multiple buttons to create a melody or a rhythm.
+
+![Xylophone App](https://github.com/abdalrahmanabs/Xylophone/assets/58333909/34e40dd1-3545-4a24-aa27-27bb20e13ea5)
